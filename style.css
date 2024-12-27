@@ -200,3 +200,6 @@ a {
 .player-control-icon {
     height: 1rem;
 }
+.progress-bar {
+    color: rgb(41, 155, 41);
+}
