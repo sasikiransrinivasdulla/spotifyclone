@@ -200,6 +200,9 @@ a {
 .player-control-icon {
     height: 1rem;
 }
+input[type="range"] {
+    accent-color: green; /* This changes the color of the range bar */
+}
 .progress-bar {
     color: rgb(41, 155, 41);
 }
